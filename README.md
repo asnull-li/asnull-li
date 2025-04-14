@@ -14,10 +14,10 @@
 
 ### 🌟 关于我
 
-- 🔭 我目前正在开发 Web 全栈项目和移动应用
-- 🌱 我正在学习最新的前端技术和云原生架构
+- 🔭 我目前正在开发 Web 全栈项目
+- 🌱 电子爱好者折腾一些有意思的东西
 - 👯 希望能与同样热爱技术的伙伴合作开发开源项目
-- 💬 欢迎与我讨论 Web 开发、React 和云计算相关话题
+- 💬 欢迎与我讨论 Web 开发、React 和电子相关话题
 - 📫 联系方式: [asnull@lipux.cn](asnull@lipux.cn)
 - ⚡ 有趣的事实：我每天至少编写 50 行代码，周末喜欢探索新技术
 
@@ -43,10 +43,6 @@
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=asnull-li&show_icons=true&theme=merko&count_private=true&bg_color=45,1a1a1a,2d4059&title_color=4CAF50&icon_color=4CAF50&text_color=ffffff&border_radius=10&custom_title=我的%20GitHub%20统计" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asnull-li&layout=compact&theme=merko&bg_color=45,1a1a1a,2d4059&title_color=4CAF50&text_color=ffffff&border_radius=10&hide=html&langs_count=6&custom_title=最常使用的编程语言" />
-</div>
-<!-- 访问计数器 -->
-<div align="center" style="margin-top:15px">
-  <img src="https://profile-counter.glitch.me/asnull-li/count.svg" />
 </div>
 
 ---
