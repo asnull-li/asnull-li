@@ -1,10 +1,9 @@
 <!-- 标题部分使用大型文本和emoji -->
 <div align="center">
-  <h1>👋 你好，我是 Asnull Li</h1>
+  <h1>👋 你好，我是 Asnull</h1>
   <p>热爱编程 | 热衷技术 | 终身学习者</p>
   
   <!-- 添加个性化徽章 -->
-  <a href="https://github.com/asnull-li"><img src="https://img.shields.io/github/followers/asnull-li?label=关注&style=social" alt="GitHub followers"></a>
   <a href="https://github.com/asnull-li?tab=repositories"><img src="https://img.shields.io/badge/项目-repositories-green.svg" alt="Repos"></a>
   <img src="https://img.shields.io/badge/地点-中国-red.svg" alt="Location">
 </div>
@@ -24,6 +23,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
@@ -42,23 +42,6 @@
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=asnull-li&show_icons=true&theme=radical&count_private=true" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asnull-li&layout=compact&theme=radical&hide=html" />
 </div>
-
-### 🏆 项目展示
-
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/asnull-li/project1">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=asnull-li&repo=project1&theme=dark" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/asnull-li/project2">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=asnull-li&repo=project2&theme=dark" />
-      </a>
-    </td>
-  </tr>
-</table>
 
 ### 🔗 社交媒体
 
